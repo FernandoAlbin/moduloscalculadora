@@ -1,4 +1,4 @@
-var dividir = function (x,y) {
+var divisao = function (x,y) {
     return x / y;
   }; 
-  module.exports = dividir;
+  module.exports = divisao;
